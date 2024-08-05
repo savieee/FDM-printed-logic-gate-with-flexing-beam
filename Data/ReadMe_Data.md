@@ -4,7 +4,7 @@
 
 ## Analysis of the impact of beam length variations on the operating pressure and stability states of the compliant logic device:
 
-![](ImagesBeamLength.png)
+![](Images/BeamLength.png)
 
 ## Analysis of the impact of beam separation distance variations on the operating pressure and stability states of the compliant logic device:
 ![](Images/BeamSeparationDistance.png)
