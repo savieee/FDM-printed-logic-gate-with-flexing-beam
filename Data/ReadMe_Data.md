@@ -1,5 +1,5 @@
 ## Analysis of the effect of change in beam thickness on the operating pressure and stability states of the compliant logic device:
 
-![](Images/CM_Thickness_FR.eps)
+![](Images/BeamAngle.png)
 
 
